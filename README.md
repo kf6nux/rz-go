@@ -212,6 +212,6 @@ See [https://opensource.bloom.sh/contributing](https://opensource.bloom.sh/contr
 
 ## License
 
-See `LICENSE.txt` and [https://opensource.bloom.sh/licensing](https://opensource.bloom.sh/licensing)
+See `LICENSE.txt` and the `Apache v2.0` and `Commercial licenses` sections of [https://opensource.bloom.sh/licensing](https://opensource.bloom.sh/licensing)
 
 From an original work by [rs](https://github.com/rs): [zerolog](https://github.com/rs/zerolog) - commit aa55558e4cb2e8f05cd079342d430f77e946d00a
